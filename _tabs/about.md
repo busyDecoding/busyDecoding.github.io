@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## About me
+
+My name is Larry, and I am a programmer from China.
+I am full of curiosity about the world and enjoy exploring new things.
+Recently, I have been studying economics, finance, blockchain, and Rust.
+Please feel free to communicate with me.
