@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Hello, welcome to my blog. I am a programmer who is full of curiosity about the world and enjoys exploring new things.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://busydecoding.github.io/"
 
 github:
   username: busydecoding # change to your github username
