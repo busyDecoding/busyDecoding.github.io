@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "比特币的诞生与去中心化网络"
+title: "比特币的共识协议：Proof of Work工作量证明机制"
 categories: [区块链]
 tags: [区块链, 比特币]
 author: busydecoding
