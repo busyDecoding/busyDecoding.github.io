@@ -1,10 +1,10 @@
 ---
+
 layout: post
 title: "DYOR：Do Your Own Research 做你自己的研究"
 categories: [思考]
 tags: [思考]
 author: busydecoding
-
 
 ---
 
