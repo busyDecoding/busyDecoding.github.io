@@ -13,7 +13,7 @@ order: 4
 
 ## About me
 
-My name is Larry, and I am a programmer from China.
+My name is Jianbo Li, and I am a programmer from China.
 I am full of curiosity about the world and enjoy exploring new things.
 Recently, I have been studying economics, finance, blockchain, and Rust.
 Please feel free to communicate with me.

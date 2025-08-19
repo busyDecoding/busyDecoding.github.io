@@ -18,7 +18,7 @@ timezone: Asia/Chongqing
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Larry's Blog # the main title
+title: Jianbo's Blog # the main title
 
 tagline: Never stop exploring the world. # it will display as the sub-title
 
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Larry Lee
+  name: Jianbo Li
   email: mugebei@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
